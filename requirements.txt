@@ -1,0 +1,11 @@
+ultralytics
+pyautogui
+mss
+opencv-python
+numpy
+pytesseract
+requests
+Pillow
+huggingface_hub
+python-telegram-bot
+pywhatkit

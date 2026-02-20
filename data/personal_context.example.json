@@ -1,0 +1,15 @@
+{
+    "user_profile": {
+        "name": "YourName",
+        "system": "Linux (Ubuntu) on your hardware specs",
+        "preferences": []
+    },
+    "instructions": [
+        "Describe your system and preferences here."
+    ],
+    "learned_facts": [],
+    "conversation_insights": [],
+    "api_keys": {
+        "youtube": "YOUR_YOUTUBE_API_KEY"
+    }
+}

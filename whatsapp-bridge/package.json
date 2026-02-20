@@ -1,0 +1,17 @@
+{
+    "name": "aria-whatsapp-bridge",
+    "version": "1.0.0",
+    "description": "Node.js WhatsApp bridge for ARIA agent",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "send": "node send.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "puppeteer-core": "^24.37.3",
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "^1.25.0"
+    }
+}

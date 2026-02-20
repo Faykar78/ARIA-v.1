@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Large Model Files & Weights
+*.gguf
+*.bin
+*.pt
+*.pth
+*.safetensors
+models/
+antigravity_model/
+weights/
+
+# External Repositories
+OmniParser/
+llama.cpp/
+openclaw/
+icon_detect/
+icon_caption/
+llava/
+
+# Training & Finetuning Artifacts
+unsloth_compiled_cache/
+outputs/
+runs/
+wandb/
+training_data/
+scripts/
+*.log
+
+# Browser Data & Session
+browser_data/
+
+# Generated Media/Images
+*.png
+*.jpg
+*.jpeg
+vision_output.jpg
+test_wallpaper.png
+step_*.png
+recording.mp4
+annotated_*.jpg
+
+# Temporary/Cache/Debug
+tmp/
+.cache/
+.DS_Store
+debug_*.json
+*_log.txt
+*.bak
+
+# Sensitive Data
+data/google_credentials.json
+data/personal_context.json
+.chromadb/
+
+# Node.js (whatsapp-bridge)
+node_modules/
+package-lock.json
+
+# Test/Verification artifacts
+test_results/
+test_shell_bak/
+verification/
+screenshots/
+my_new_folder/
+whatsapp-bridge/wa_session/
+whatsapp-bridge/node_modules/
