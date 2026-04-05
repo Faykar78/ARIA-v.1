@@ -2,6 +2,10 @@
 
 **ARIA** (Artificially Resilient Intelligent Assistant) is a JARVIS-style AI desktop assistant for Linux. It combines voice input/output, WhatsApp automation, YouTube media control, system management, and more — all through natural language.
 
+## 🎥 Demonstration
+
+<video src="aria_video.mp4" width="100%" controls></video>
+
 ## ✨ Features
 
 - 🗣️ **Voice I/O** — Natural speech input via Vosk + JARVIS-style voice output via XTTS-v2
